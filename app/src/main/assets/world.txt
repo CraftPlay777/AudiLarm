@@ -1,0 +1,174 @@
+AR|Buenos Aires|America/Argentina/Buenos_Aires
+AR|Ciudad Autónoma de Buenos Aires|America/Argentina/Buenos_Aires
+AR|Catamarca|America/Argentina/Buenos_Aires
+AR|Chaco|America/Argentina/Buenos_Aires
+AR|Chubut|America/Argentina/Buenos_Aires
+AR|Córdoba|America/Argentina/Buenos_Aires
+AR|Corrientes|America/Argentina/Buenos_Aires
+AR|Entre Ríos|America/Argentina/Buenos_Aires
+AR|Formosa|America/Argentina/Buenos_Aires
+AR|Jujuy|America/Argentina/Buenos_Aires
+AR|La Pampa|America/Argentina/Buenos_Aires
+AR|La Rioja|America/Argentina/Buenos_Aires
+AR|Mendoza|America/Argentina/Buenos_Aires
+AR|Misiones|America/Argentina/Buenos_Aires
+AR|Neuquén|America/Argentina/Buenos_Aires
+AR|Río Negro|America/Argentina/Buenos_Aires
+AR|Salta|America/Argentina/Buenos_Aires
+AR|San Juan|America/Argentina/Buenos_Aires
+AR|San Luis|America/Argentina/Buenos_Aires
+AR|Santa Cruz|America/Argentina/Buenos_Aires
+AR|Santa Fe|America/Argentina/Buenos_Aires
+AR|Santiago del Estero|America/Argentina/Buenos_Aires
+AR|Tierra del Fuego|America/Argentina/Buenos_Aires
+AR|Tucumán|America/Argentina/Buenos_Aires
+MX|Aguascalientes|America/Mexico_City
+MX|Baja California|America/Tijuana
+MX|Baja California Sur|America/Mazatlan
+MX|Campeche|America/Mexico_City
+MX|Chiapas|America/Mexico_City
+MX|Chihuahua|America/Chihuahua
+MX|Ciudad de México|America/Mexico_City
+MX|Coahuila|America/Mexico_City
+MX|Colima|America/Mexico_City
+MX|Durango|America/Mexico_City
+MX|Guanajuato|America/Mexico_City
+MX|Guerrero|America/Mexico_City
+MX|Hidalgo|America/Mexico_City
+MX|Jalisco|America/Mexico_City
+MX|Estado de México|America/Mexico_City
+MX|Michoacán|America/Mexico_City
+MX|Morelos|America/Mexico_City
+MX|Nayarit|America/Mazatlan
+MX|Nuevo León|America/Mexico_City
+MX|Oaxaca|America/Mexico_City
+MX|Puebla|America/Mexico_City
+MX|Querétaro|America/Mexico_City
+MX|Quintana Roo|America/Cancun
+MX|San Luis Potosí|America/Mexico_City
+MX|Sinaloa|America/Mazatlan
+MX|Sonora|America/Hermosillo
+MX|Tabasco|America/Mexico_City
+MX|Tamaulipas|America/Mexico_City
+MX|Tlaxcala|America/Mexico_City
+MX|Veracruz|America/Mexico_City
+MX|Yucatán|America/Mexico_City
+MX|Zacatecas|America/Mexico_City
+US|Alabama|America/Chicago
+US|Alaska|America/Anchorage
+US|Arizona|America/Phoenix
+US|Arkansas|America/Chicago
+US|California|America/Los_Angeles
+US|Carolina del Norte|America/New_York
+US|Carolina del Sur|America/New_York
+US|Colorado|America/Denver
+US|Connecticut|America/New_York
+US|Dakota del Norte|America/Chicago
+US|Dakota del Sur|America/Chicago
+US|Delaware|America/New_York
+US|Distrito de Columbia|America/New_York
+US|Florida|America/New_York
+US|Georgia|America/New_York
+US|Hawái|Pacific/Honolulu
+US|Idaho|America/Boise
+US|Illinois|America/Chicago
+US|Indiana|America/Indiana/Indianapolis
+US|Iowa|America/Chicago
+US|Kansas|America/Chicago
+US|Kentucky|America/New_York
+US|Luisiana|America/Chicago
+US|Maine|America/New_York
+US|Maryland|America/New_York
+US|Massachusetts|America/New_York
+US|Míchigan|America/Detroit
+US|Minnesota|America/Chicago
+US|Misisipi|America/Chicago
+US|Misuri|America/Chicago
+US|Montana|America/Denver
+US|Nebraska|America/Chicago
+US|Nevada|America/Los_Angeles
+US|Nueva Hampshire|America/New_York
+US|Nueva Jersey|America/New_York
+US|Nueva York|America/New_York
+US|Nuevo México|America/Denver
+US|Ohio|America/New_York
+US|Oklahoma|America/Chicago
+US|Oregón|America/Los_Angeles
+US|Pensilvania|America/New_York
+US|Rhode Island|America/New_York
+US|Tennessee|America/Chicago
+US|Texas|America/Chicago
+US|Utah|America/Denver
+US|Vermont|America/New_York
+US|Virginia|America/New_York
+US|Virginia Occidental|America/New_York
+US|Washington|America/Los_Angeles
+US|Wisconsin|America/Chicago
+US|Wyoming|America/Denver
+CA|Alberta|America/Edmonton
+CA|Columbia Británica|America/Vancouver
+CA|Manitoba|America/Winnipeg
+CA|Nuevo Brunswick|America/Moncton
+CA|Terranova y Labrador|America/St_Johns
+CA|Nueva Escocia|America/Halifax
+CA|Ontario|America/Toronto
+CA|Isla del Príncipe Eduardo|America/Halifax
+CA|Quebec|America/Toronto
+CA|Saskatchewan|America/Regina
+CA|Territorios del Noroeste|America/Edmonton
+CA|Nunavut|America/Iqaluit
+CA|Yukón|America/Whitehorse
+BR|Acre|America/Rio_Branco
+BR|Alagoas|America/Maceio
+BR|Amapá|America/Belem
+BR|Amazonas|America/Manaus
+BR|Bahía|America/Bahia
+BR|Ceará|America/Fortaleza
+BR|Distrito Federal|America/Sao_Paulo
+BR|Espírito Santo|America/Sao_Paulo
+BR|Goiás|America/Sao_Paulo
+BR|Maranhão|America/Fortaleza
+BR|Mato Grosso|America/Cuiaba
+BR|Mato Grosso do Sul|America/Campo_Grande
+BR|Minas Gerais|America/Sao_Paulo
+BR|Pará|America/Belem
+BR|Paraíba|America/Fortaleza
+BR|Paraná|America/Sao_Paulo
+BR|Pernambuco|America/Recife
+BR|Piauí|America/Fortaleza
+BR|Río de Janeiro|America/Sao_Paulo
+BR|Río Grande do Norte|America/Fortaleza
+BR|Río Grande do Sul|America/Sao_Paulo
+BR|Rondônia|America/Porto_Velho
+BR|Roraima|America/Boa_Vista
+BR|Santa Catarina|America/Sao_Paulo
+BR|São Paulo|America/Sao_Paulo
+BR|Sergipe|America/Maceio
+BR|Tocantins|America/Araguaina
+AU|Nueva Gales del Sur|Australia/Sydney
+AU|Victoria|Australia/Melbourne
+AU|Queensland|Australia/Brisbane
+AU|Australia Meridional|Australia/Adelaide
+AU|Australia Occidental|Australia/Perth
+AU|Tasmania|Australia/Hobart
+AU|Territorio del Norte|Australia/Darwin
+AU|Territorio de la Capital|Australia/Sydney
+ES|Andalucía|Europe/Madrid
+ES|Aragón|Europe/Madrid
+ES|Asturias|Europe/Madrid
+ES|Islas Baleares|Europe/Madrid
+ES|Canarias|Atlantic/Canary
+ES|Cantabria|Europe/Madrid
+ES|Castilla-La Mancha|Europe/Madrid
+ES|Castilla y León|Europe/Madrid
+ES|Cataluña|Europe/Madrid
+ES|Ceuta|Europe/Madrid
+ES|Comunidad Valenciana|Europe/Madrid
+ES|Extremadura|Europe/Madrid
+ES|Galicia|Europe/Madrid
+ES|La Rioja|Europe/Madrid
+ES|Madrid|Europe/Madrid
+ES|Melilla|Europe/Madrid
+ES|Murcia|Europe/Madrid
+ES|Navarra|Europe/Madrid
+ES|País Vasco|Europe/Madrid
